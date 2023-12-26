@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WeaponButton
+comment1.params=counter
+comment1.target=WeaponButton(Counter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getWeaponUpgrade()
+numComments=4
